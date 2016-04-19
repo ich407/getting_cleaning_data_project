@@ -2,7 +2,8 @@
 
 The purpose of this project is to merge a series of related data from the "Human Activity Recognition Using Smartphones Dataset" and create a tidy output that can be used for future analysis.
 
-Relevant files:
+Relevant files: 
+
 run_analysis.R - the code used to merge and generate the tidy data set as requested for the assignment:
 <li>1. Merges the training and the test sets to create one data set.</li>
 <li>2. Extracts only the measurements on the mean and standard deviation for each measurement. </li>
